@@ -13,7 +13,7 @@
 * 🎓 **Education:** 2nd year student at **Sakarya Uygulamalı Bilimler Üniversitesi**.
 * 💻 **Current Role:** Active **Back-End Developer Intern**, working on real-world internship projects.
 * 🛠️ **Focusing on:** Node.js, Express.js and DevOps.
-* 📫 **Reach me at:** [gocm3n@proton.me](mailto:gocm3n@proton.me)
+* 📫 **Reach me at:** [gocm3n@proton.me](mailto:efegocmennn92@gmail.com)
 
 ---
 
@@ -54,7 +54,7 @@
 
 ### 🤝 Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/ahmet-efe-göçmen" target="https://www.linkedin.com/in/ahmet-efe-g%C3%B6%C3%A7men4154-12417131b/?locale=tr">
+<a href="https://linkedin.com/in/ahmet-efe-göçmen" target="https://www.linkedin.com/in/ahmet-efe-g%C3%B6%C3%A7men4154-12417131b">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 </p>
